@@ -287,5 +287,4 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
   <img src="https://img.shields.io/github/stars/Jouqio/stochastic-pv-equatorial-kalimantan?style=social" alt="Stars">
   <img src="https://img.shields.io/github/forks/Jouqio/stochastic-pv-equatorial-kalimantan?style=social" alt="Forks">
   <br><br>
-  <b>Made with  for reproducible solar energy science in Indonesia</b>
 </p>
