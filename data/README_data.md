@@ -13,7 +13,7 @@ URL: https://power.larc.nasa.gov/data-access-viewer/
 | Köppen climate | Af (Equatorial Rainforest) |
 | Elevation | ~15 m a.s.l. |
 
-## Temporal Coverages
+## Temporal Coverage
 | Field | Value |
 |-------|-------|
 | Start | 1 January 2015 |
