@@ -1,5 +1,5 @@
 """
-src/data_generation.pyy
+src/data_generation.py
 ======================
 Synthetic monthly meteorological data generator for
 Bontang, East Kalimantan (0.1333°N, 117.50°E).
