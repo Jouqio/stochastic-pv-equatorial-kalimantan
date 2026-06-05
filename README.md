@@ -1,4 +1,4 @@
-# 🌞 Stochastic PV Performance Modeling — Equatorial Maritime Climate
+#  Stochastic PV Performance Modeling — Equatorial Maritime Climate
 ### Physics-Informed Loss Framework for East Kalimantan, Indonesia
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
