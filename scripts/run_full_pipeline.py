@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-scripts/run_full_pipeline.py
+scripts/run_full_pipeline.pyy
 ============================
 End-to-end entry point for the stochastic PV modeling pipeline.
 
