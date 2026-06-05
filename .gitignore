@@ -1,0 +1,83 @@
+# ── Python ──────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ── Virtual environments ────────────────────────────────────
+.env
+.venv
+env/
+venv/
+ENV/
+
+# ── Jupyter / IPython ────────────────────────────────────────
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+profile_default/
+ipython_config.py
+
+# ── Data & large files ──────────────────────────────────────
+*.csv.gz
+*.parquet
+*.h5
+*.hdf5
+# Keep data/*.csv tracked (NASA POWER raw data is small)
+!data/*.csv
+
+# ── Output artifacts ─────────────────────────────────────────
+# Keep figures tracked (publication assets)
+!figures/*.png
+!figures/*.pdf
+# Ignore generated Word docs in root (keep only in docs/)
+*.docx
+!docs/*.docx
+
+# ── OS files ─────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ── IDE / Editor ─────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── Testing & coverage ───────────────────────────────────────
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+
+# ── Logs & temp ──────────────────────────────────────────────
+*.log
+*.tmp
+*.temp
+/tmp/

@@ -1,0 +1,26 @@
+# Stochastic PV Modeling — Equatorial Maritime Climate
+# Reproducible environment: pip install -r requirements.txt
+# Tested with Python 3.9 / 3.10 / 3.11
+
+# Core scientific stack
+numpy>=1.20.0,<2.0.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Machine learning
+scikit-learn>=1.0.0
+xgboost>=1.5.0
+
+# Time-series & econometrics
+statsmodels>=0.13.0
+
+# Visualisation
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Document generation
+python-docx>=0.8.11
+
+# Utilities
+lxml>=4.6.0
+openpyxl>=3.0.0
