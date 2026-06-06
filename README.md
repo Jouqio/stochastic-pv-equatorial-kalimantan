@@ -3,7 +3,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
-[![Target Journal](https://img.shields.io/badge/Target%20Journal-Applied%20Energy%20Q1-orange?style=flat-square)](https://www.journals.elsevier.com/applied-energy)
 [![NASA POWER](https://img.shields.io/badge/Data-NASA%20POWER%20v8.2.1-blue?style=flat-square)](https://power.larc.nasa.gov)
 [![Reproducible](https://img.shields.io/badge/Reproducible-seed%3D42-green?style=flat-square)](#reproducibility)
 
